@@ -1,0 +1,385 @@
+﻿numexp;mismatch;variable;1;2;3;4;5;6;7;8
+1;0_;NoMM;C';est;l' orateur ;qui;endort;l' étudiant  ;sérieusement;depuis le début  .
+1;0_;NoMM;C';est;les orateurs;qui;endorment;les étudiants;sérieusement;depuis le début  .
+1;0_;NoMM;C';est;il;qui;endort;lui;sérieusement;depuis le début  .
+1;0_;NoMM;C';est;ils;qui;endorment;eux;sérieusement;depuis le début  .
+1;1_;typ;C';est;il;qui;endort;l' étudiant  ;sérieusement;depuis le début  .
+1;1_;typ;C';est;l'orateur;qui;endort;lui;sérieusement;depuis le début  .
+1;1_;typ;C';est;les orateurs;qui;endorment;eux;sérieusement;depuis le début  .
+1;1_;typ;C';est;ils;qui;endorment;les étudiants;sérieusement;depuis le début  .
+1;1_;per;C';est;il;qui;endort;moi;sérieusement;depuis le début  .
+1;1_;per;C';est;je;qui;endorme;lui;sérieusement;depuis le début  .
+1;1_;per;C';est;ils;qui;endorment;nous;sérieusement;depuis le début  .
+1;1_;per;C';est;nous;qui;endormons;eux;sérieusement;depuis le début  .
+1;1_;num;C';est;les orateurs;qui;endorment;l' étudiant  ;sérieusement;depuis le début  .
+1;1_;num;C';est;l'orateur;qui;endort;les étudiants;sérieusement;depuis le début  .
+1;1_;num;C';est;ils;qui;endorment;lui;sérieusement;depuis le début  .
+1;1_;num;C';est;il;qui;endort;eux;sérieusement;depuis le début  .
+1;1_;gen;C';est;l'oratrice;qui;endort;l'étudiant;sérieusement;depuis le début  .
+1;1_;gen;C';est;l'orateur;qui;endort;l'étudiante;sérieusement;depuis le début  .
+1;1_;gen;C';est;elle;qui;endort;lui;sérieusement;depuis le début  .
+1;1_;gen;C';est;il;qui;endort;elle;sérieusement;depuis le début  .
+1;2_;Typ+Num;C';est;ils;qui;endorment;l' étudiant  ;sérieusement;depuis le début  .
+1;2_;Typ+Num;C';est;les orateurs;qui;endorment;lui;sérieusement;depuis le début  .
+1;2_;Typ+Num;C';est;l'orateur;qui;endort;eux;sérieusement;depuis le début  .
+1;2_;Typ+Num;C';est;il;qui;endort;les étudiants;sérieusement;depuis le début  .
+1;2_;Typ+Per;C';est;l'orateur;qui;endort;moi;sérieusement;depuis le début  .
+1;2_;Typ+Per;C';est;je;qui;endorme;l' étudiant  ;sérieusement;depuis le début  .
+1;2_;Typ+Per;C';est;nous;qui;endormons;les étudiants;sérieusement;depuis le début  .
+1;2_;Typ+Per;C';est;les orateurs;qui;endorment;nous;sérieusement;depuis le début  .
+1;2_;Typ+Gen;C';est;elle;qui;endort;l'étudiant;sérieusement;depuis le début  .
+1;2_;Typ+Gen;C';est;il;qui;endort;l'étudiante;sérieusement;depuis le début  .
+1;2_;Typ+Gen;C';est;l'oratrice;qui;endort;lui;sérieusement;depuis le début  .
+1;2_;Typ+Gen;C';est;l'orateur;qui;endort;elle;sérieusement;depuis le début  .
+1;2_;Num+Gen;C';est;les orateurs;qui;endorment;l'étudiante;sérieusement;depuis le début  .
+1;2_;Num+Gen;C';est;ils;qui;endorment;elle;sérieusement;depuis le début  .
+1;2_;Num+Gen;C';est;les oratrices;qui;endorment;l'étudiant;sérieusement;depuis le début  .
+1;2_;Num+Gen;C';est;elles;qui;endorment;eux;sérieusement;depuis le début  .
+1;2_;Num + Per;C';est;ils;qui;endorment;moi;sérieusement;depuis le début  .
+1;2_;Num + Per;C';est;je;qui;endorme;eux;sérieusement;depuis le début  .
+1;2_;Num + Per;C';est;nous;qui;endormons;lui;sérieusement;depuis le début  .
+1;2_;Num + Per;C';est;il;qui;endort;nous;sérieusement;depuis le début  .
+1;3_;Typ+Num+Per;C';est;l'orateur;qui;endort;nous;sérieusement;depuis le début  .
+1;3_;Typ+Num+Per;C';est;nous;qui;endormons;l' étudiant  ;sérieusement;depuis le début  .
+1;3_;Typ+Num+Per;C';est;les orateurs;qui;endorment;moi;sérieusement;depuis le début  .
+1;3_;Typ+Num+Per;C';est;je;qui;endorme;les étudiants;sérieusement;depuis le début  .
+1;3_;Typ+Num+Gen;C';est;les orateurs;qui;endorment;elle;sérieusement;depuis le début  .
+1;3_;Typ+Num+Gen;C';est;il;qui;endort;les étudiantes;sérieusement;depuis le début  .
+1;3_;Typ+Num+Gen;C';est;les oratrices;qui;endorment;lui;sérieusement;depuis le début  .
+1;3_;Typ+Num+Gen;C';est;ils;qui;endorment;l'étudiante;sérieusement;depuis le début  .
+2;0_;NoMM;C';est;le politicien;qui;déçoit;l' électeur ;franchement; depuis les élections .
+2;0_;NoMM;C';est;les politiciens;qui;déçoivent;les électeurs;franchement; depuis les élections .
+2;0_;NoMM;C';est;il;qui;déçoit;lui;franchement; depuis les élections .
+2;0_;NoMM;C';est;ils;qui;déçoivent;eux;franchement; depuis les élections .
+2;1_;typ;C';est;il;qui;déçoit;l' électeur ;franchement; depuis les élections .
+2;1_;typ;C';est;le politicien;qui;déçoit;lui;franchement; depuis les élections .
+2;1_;typ;C';est;les politiciens;qui;déçoivent;eux;franchement; depuis les élections .
+2;1_;typ;C';est;ils;qui;déçoivent;les électeurs;franchement; depuis les élections .
+2;1_;num;C';est;les politiciens;qui;déçoivent;l' électeur ;franchement; depuis les élections .
+2;1_;num;C';est;le politicien;qui;déçoit;les électeurs;franchement; depuis les élections .
+2;1_;num;C';est;ils;qui;déçoivent;lui;franchement; depuis les élections .
+2;1_;num;C';est;il;qui;déçoit;eux;franchement; depuis les élections .
+2;1_;per;C';est;il;qui;déçoit;moi;franchement; depuis les élections .
+2;1_;per;C';est;je;qui;déçois;lui;franchement; depuis les élections .
+2;1_;per;C';est;ils;qui;déçoivent;nous;franchement; depuis les élections .
+2;1_;per;C';est;nous;qui;décevons;eux;franchement; depuis les élections .
+2;1_;gen;C';est;la politicienne;qui;déçoit;l' électeur ;franchement; depuis les élections .
+2;1_;gen;C';est;le politicien;qui;déçoit;l'électrice;franchement; depuis les élections .
+2;1_;gen;C';est;elle;qui;déçoit;lui;franchement; depuis les élections .
+2;1_;gen;C';est;il;qui;déçoit;elle;franchement; depuis les élections .
+2;2_;Typ+Num;C';est;ils;qui;déçoivent;l' électeur ;franchement; depuis les élections .
+2;2_;Typ+Num;C';est;les politiciens;qui;déçoivent;lui;franchement; depuis les élections .
+2;2_;Typ+Num;C';est;le politicien;qui;déçoit;eux;franchement; depuis les élections .
+2;2_;Typ+Num;C';est;il;qui;déçoit;les électeurs;franchement; depuis les élections .
+2;2_;Typ+Per;C';est;le politicien;qui;déçoit;moi;franchement; depuis les élections .
+2;2_;Typ+Per;C';est;je;qui;déçois;l' électeur ;franchement; depuis les élections .
+2;2_;Typ+Per;C';est;nous;qui;décevons;les électeurs;franchement; depuis les élections .
+2;2_;Typ+Per;C';est;les politiciens;qui;déçoivent;nous;franchement; depuis les élections .
+2;2_;Typ+Gen;C';est;la politicienne;qui;déçoit;l'électeur;franchement; depuis les élections .
+2;2_;Typ+Gen;C';est;le politicien;qui;déçoit;l'électrice;franchement; depuis les élections .
+2;2_;Typ+Gen;C';est;elle;qui;déçoit;lui;franchement; depuis les élections .
+2;2_;Typ+Gen;C';est;il;qui;déçoit;elle;franchement; depuis les élections .
+2;2_;Num+Gen;C';est;les policitiens;qui;déçoivent;l'électrice;franchement; depuis les élections .
+2;2_;Num+Gen;C';est;ils;qui;déçoivent;elle;franchement; depuis les élections .
+2;2_;Num+Gen;C';est;les politiciennes;qui;déçoivent;l'électeur;franchement; depuis les élections .
+2;2_;Num+Gen;C';est;elles;qui;déçoivent;eux;franchement; depuis les élections .
+2;2_;Num + Per;C';est;ils;qui;déçoivent;moi;franchement; depuis les élections .
+2;2_;Num + Per;C';est;je;qui;déçois;eux;franchement; depuis les élections .
+2;2_;Num + Per;C';est;nous;qui;décevons;lui;franchement; depuis les élections .
+2;2_;Num + Per;C';est;il;qui;déçoit;nous;franchement; depuis les élections .
+2;3_;Typ+Num+Per;C';est;le politicien;qui;déçoit;nous;franchement; depuis les élections .
+2;3_;Typ+Num+Per;C';est;nous;qui;décevons;l' électeur ;franchement; depuis les élections .
+2;3_;Typ+Num+Per;C';est;les politiciens;qui;déçoivent;moi;franchement; depuis les élections .
+2;3_;Typ+Num+Per;C';est;je;qui;déçois;les électeurs;franchement; depuis les élections .
+2;3_;Typ+Num+Gen;C';est;les politiciens;qui;déçoivent;elle;franchement; depuis les élections .
+2;3_;Typ+Num+Gen;C';est;il;qui;déçoit;les électeurs;franchement; depuis les élections .
+2;3_;Typ+Num+Gen;C';est;les politiciennes;qui;déçoivent;lui;franchement; depuis les élections .
+2;3_;Typ+Num+Gen;C';est;ils;qui;déçoivent;l'électrice;franchement; depuis les élections .
+3;0_;NoMM;C';est;le gardien;qui;sort;le prisonnier;parfois;dans la cour .
+3;0_;NoMM;C';est;les gardiens;qui;sortent;les prisonniers;parfois;dans la cour .
+3;0_;NoMM;C';est;il;qui;sort;lui;parfois;dans la cour .
+3;0_;NoMM;C';est;ils;qui;sortent;eux;parfois;dans la cour .
+3;1_;typ;C';est;il;qui;sort;le prisonnier;parfois;dans la cour .
+3;1_;typ;C';est;le gardien;qui;sort;lui;parfois;dans la cour .
+3;1_;typ;C';est;les gardiens;qui;sortent;eux;parfois;dans la cour .
+3;1_;typ;C';est;ils;qui;sortent;les prisonniers;parfois;dans la cour .
+3;1_;num;C';est;les gardiens;qui;sortent;le prisonnier;parfois;dans la cour .
+3;1_;num;C';est;le gardien;qui;sort;les prisonniers;parfois;dans la cour .
+3;1_;num;C';est;ils;qui;sortent;lui;parfois;dans la cour .
+3;1_;num;C';est;il;qui;sort;eux;parfois;dans la cour .
+3;1_;per;C';est;il;qui;sort;moi;parfois;dans la cour .
+3;1_;per;C';est;je;qui;sort;lui;parfois;dans la cour .
+3;1_;per;C';est;ils;qui;sortent;nous;parfois;dans la cour .
+3;1_;per;C';est;nous;qui;sortons;eux;parfois;dans la cour .
+3;1_;gen;C';est;la gardienne;qui;sort;le prisonnier;parfois;dans la cour .
+3;1_;gen;C';est;le gardien;qui;sort;la prisonniere;parfois;dans la cour .
+3;1_;gen;C';est;elle;qui;sort;lui;parfois;dans la cour .
+3;1_;gen;C';est;il;qui;sort;elle;parfois;dans la cour .
+3;2_;Typ+Num;C';est;ils;qui;sortent;le prisonnier;parfois;dans la cour .
+3;2_;Typ+Num;C';est;les gardiens;qui;sortent;lui;parfois;dans la cour .
+3;2_;Typ+Num;C';est;le gardien;qui;sort;eux;parfois;dans la cour .
+3;2_;Typ+Num;C';est;il;qui;sort;les prisonniers;parfois;dans la cour .
+3;2_;Typ+Per;C';est;le gardien;qui;sort;moi;parfois;dans la cour .
+3;2_;Typ+Per;C';est;je;qui;sort;le prisonnier;parfois;dans la cour .
+3;2_;Typ+Per;C';est;nous;qui;sortons;les prisonniers;parfois;dans la cour .
+3;2_;Typ+Per;C';est;les gardiens;qui;sortent;nous;parfois;dans la cour .
+3;2_;Typ+Gen;C';est;elle;qui;sort;le prisonnier;parfois;dans la cour .
+3;2_;Typ+Gen;C';est;il;qui;sort;la prisonniere;parfois;dans la cour .
+3;2_;Typ+Gen;C';est;la gardienne;qui;sort;lui;parfois;dans la cour .
+3;2_;Typ+Gen;C';est;le gardien;qui;sort;elle;parfois;dans la cour .
+3;2_;Num + Per;C';est;ils;qui;sortent;moi;parfois;dans la cour .
+3;2_;Num + Per;C';est;je;qui;sort;eux;parfois;dans la cour .
+3;2_;Num + Per;C';est;nous;qui;sortons;lui;parfois;dans la cour .
+3;2_;Num + Per;C';est;il;qui;sort;nous;parfois;dans la cour .
+3;2_;Num+Gen;C';est;les gardiens;qui;sortent;les prisonnieres;parfois;dans la cour .
+3;2_;Num+Gen;C';est;ils;qui;sortent;elle;parfois;dans la cour .
+3;2_;Num+Gen;C';est;les gardiennes;qui;sortent;le prisonnier;parfois;dans la cour .
+3;2_;Num+Gen;C';est;elles;qui;sortent;lui;parfois;dans la cour .
+3;3_;Typ+Num+Per;C';est;le gardien;qui;sortent;nous;parfois;dans la cour .
+3;3_;Typ+Num+Per;C';est;nous;qui;sortons;le prisonnier;parfois;dans la cour .
+3;3_;Typ+Num+Per;C';est;les gardiens;qui;sortent;moi;parfois;dans la cour .
+3;3_;Typ+Num+Per;C';est;je;qui;sort;les prisonniers;parfois;dans la cour .
+3;3_;Typ+Num+Gen;C';est;les gardiens;qui;sortent;elle;parfois;dans la cour .
+3;3_;Typ+Num+Gen;C';est;il;qui;sort;les prisonnieres;parfois;dans la cour .
+3;3_;Typ+Num+Gen;C';est;les gardiennes;qui;sortent;lui;parfois;dans la cour .
+3;3_;Typ+Num+Gen;C';est;ils;qui;sortent;la prisonniere;parfois;dans la cour .
+4;0_;NoMM;C';est;l'éducateur;qui;bat;l'adolescent;souvent;depuis quelques années .
+4;0_;NoMM;C';est;les éducateurs;qui;battent;les adolescents;souvent;depuis quelques années .
+4;0_;NoMM;C';est;il;qui;bat;lui;souvent;depuis quelques années .
+4;0_;NoMM;C';est;ils;qui;battent;eux;souvent;depuis quelques années .
+4;1_;typ;C';est;il;qui;bat;l'adolescent;souvent;depuis quelques années .
+4;1_;typ;C';est;l'éducateur;qui;bat;lui;souvent;depuis quelques années .
+4;1_;typ;C';est;les éducateurs;qui;battent;eux;souvent;depuis quelques années .
+4;1_;typ;C';est;ils;qui;battent;les adolescents;souvent;depuis quelques années .
+4;1_;num;C';est;les éducateurs;qui;battent;l'adolescent;souvent;depuis quelques années .
+4;1_;num;C';est;l'éducateur;qui;bat;les adolescents;souvent;depuis quelques années .
+4;1_;num;C';est;ils;qui;battent;lui;souvent;depuis quelques années .
+4;1_;num;C';est;il;qui;bat;eux;souvent;depuis quelques années .
+4;1_;per;C';est;il;qui;bat;moi;souvent;depuis quelques années .
+4;1_;per;C';est;je;qui;bat;lui;souvent;depuis quelques années .
+4;1_;per;C';est;ils;qui;battons;nous;souvent;depuis quelques années .
+4;1_;per;C';est;nous;qui;battent;eux;souvent;depuis quelques années .
+4;1_;gen;C';est;l'éducatrice;qui;bat;l'adolescent;souvent;depuis quelques années .
+4;1_;gen;C';est;l'éducateur;qui;bat;l'adolescente;souvent;depuis quelques années .
+4;1_;gen;C';est;elle;qui;bat;lui;souvent;depuis quelques années .
+4;1_;gen;C';est;il;qui;bat;elle;souvent;depuis quelques années .
+4;2_;Typ+Num;C';est;ils;qui;battent;l'adolescent;souvent;depuis quelques années .
+4;2_;Typ+Num;C';est;les éducateurs;qui;battent;lui;souvent;depuis quelques années .
+4;2_;Typ+Num;C';est;l'éducateur;qui;bat;eux;souvent;depuis quelques années .
+4;2_;Typ+Num;C';est;il;qui;bat;les adolescents;souvent;depuis quelques années .
+4;2_;Typ+Gen;C';est;elle;qui;bat;l'adolescent;souvent;depuis quelques années .
+4;2_;Typ+Gen;C';est;il;qui;bat;l'adolescente;souvent;depuis quelques années .
+4;2_;Typ+Gen;C';est;l'éducatrice;qui;bat;lui;souvent;depuis quelques années .
+4;2_;Typ+Gen;C';est;l'éducateur;qui;bat;elle;souvent;depuis quelques années .
+4;2_;Num+Gen;C';est;les éducateurs;qui;battent;l'adolescente;souvent;depuis quelques années .
+4;2_;Num+Gen;C';est;ils;qui;battent;elle;souvent;depuis quelques années .
+4;2_;Num+Gen;C';est;les éducatrices;qui;battent;l'adolescent;souvent;depuis quelques années .
+4;2_;Num+Gen;C';est;elles;qui;battent;lui;souvent;depuis quelques années .
+4;2_;Typ+Per;C';est;l'éducateur;qui;bat;moi;souvent;depuis quelques années .
+4;2_;Typ+Per;C';est;je;qui;bat;l'adolescent;souvent;depuis quelques années .
+4;2_;Typ+Per;C';est;nous;qui;battons;les adolescents;souvent;depuis quelques années .
+4;2_;Typ+Per;C';est;les éducateurs;qui;battent;nous;souvent;depuis quelques années .
+4;2_;Num + Per;C';est;ils;qui;battent;moi;souvent;depuis quelques années .
+4;2_;Num + Per;C';est;je;qui;bat;eux;souvent;depuis quelques années .
+4;2_;Num + Per;C';est;nous;qui;battons;lui;souvent;depuis quelques années .
+4;2_;Num + Per;C';est;il;qui;bat;nous;souvent;depuis quelques années .
+4;3_;Typ+Num+Per;C';est;l'éducateur;qui;bat;nous;souvent;depuis quelques années .
+4;3_;Typ+Num+Per;C';est;nous;qui;battons;l'adolescent;souvent;depuis quelques années .
+4;3_;Typ+Num+Per;C';est;les éducateurs;qui;battent;moi;souvent;depuis quelques années .
+4;3_;Typ+Num+Per;C';est;je;qui;bat;les adolescents;souvent;depuis quelques années .
+4;3_;Typ+Num+Gen;C';est;les éducateurs;qui;battent;elle;souvent;depuis quelques années .
+4;3_;Typ+Num+Gen;C';est;il;qui;bat;les adolescentes;souvent;depuis quelques années .
+4;3_;Typ+Num+Gen;C';est;les éducatrices;qui;battent;lui;souvent;depuis quelques années .
+4;3_;Typ+Num+Gen;C';est;ils;qui;battent;l'adolescente;souvent;depuis quelques années .
+5;0_;NoMM;C';est;la jurée;qui;attend;la candidate;fermement;après l'audition
+5;0_;NoMM;C';est;les jurées;qui;attendent;les candidates;fermement;après l'audition
+5;0_;NoMM;C';est;elle;qui;attend;elle;fermement;après l'audition
+5;0_;NoMM;C';est;elles;qui;attendent;elles;fermement;après l'audition
+5;1_;typ;C';est;elle;qui;attend;la candidate;fermement;après l'audition
+5;1_;typ;C';est;la jurée;qui;attend;elle;fermement;après l'audition
+5;1_;typ;C';est;les jurées;qui;attendent;elles;fermement;après l'audition
+5;1_;typ;C';est;elles;qui;attendent;les candidates;fermement;après l'audition
+5;1_;num;C';est;les jurées;qui;attendent;la candidate;fermement;après l'audition
+5;1_;num;C';est;la jurée;qui;attend;les candidates;fermement;après l'audition
+5;1_;num;C';est;elles;qui;attendent;elle;fermement;après l'audition
+5;1_;num;C';est;elle;qui;attend;elles;fermement;après l'audition
+5;1_;per;C';est;elle;qui;bat;moi;fermement;après l'audition
+5;1_;per;C';est;je;qui;bat;elle;fermement;après l'audition
+5;1_;per;C';est;elles;qui;battons;nous;fermement;après l'audition
+5;1_;per;C';est;nous;qui;battent;elles;fermement;après l'audition
+5;1_;gen;C';est;la jurée;qui;attend;le candidat;fermement;après l'audition
+5;1_;gen;C';est;le juré;qui;attend;la candidate;fermement;après l'audition
+5;1_;gen;C';est;elle;qui;attend;lui;fermement;après l'audition
+5;1_;gen;C';est;il;qui;attend;elle;fermement;après l'audition
+5;2_;Typ+Num;C';est;elles;qui;attendent;la candidate;fermement;après l'audition
+5;2_;Typ+Num;C';est;les jurées;qui;attendent;elle;fermement;après l'audition
+5;2_;Typ+Num;C';est;la jurée;qui;attend;elles;fermement;après l'audition
+5;2_;Typ+Num;C';est;elle;qui;attend;les candidates;fermement;après l'audition
+5;2_;Typ+Per;C';est;la jurée;qui;attend;moi;fermement;après l'audition
+5;2_;Typ+Per;C';est;je;qui;attend;la candidate;fermement;après l'audition
+5;2_;Typ+Per;C';est;nous;qui;attendons;les candidates;fermement;après l'audition
+5;2_;Typ+Per;C';est;les jurées;qui;attendent;nous;fermement;après l'audition
+5;2_;Typ+Gen;C';est;elle;qui;attend;le candidat;fermement;après l'audition
+5;2_;Typ+Gen;C';est;il;qui;attend;la candidate;fermement;après l'audition
+5;2_;Typ+Gen;C';est;la jurée;qui;attend;lui;fermement;après l'audition
+5;2_;Typ+Gen;C';est;le juré;qui;attend;elle;fermement;après l'audition
+5;2_;Num+Gen;C';est;les jurés;qui;attendent;l'adolescente;fermement;après l'audition
+5;2_;Num+Gen;C';est;ils;qui;attendent;elle;fermement;après l'audition
+5;2_;Num+Gen;C';est;les jurées;qui;attendent;l'adolescent;fermement;après l'audition
+5;2_;Num + Per;C';est;ils;qui;attendent;moi;fermement;après l'audition
+5;2_;Num + Per;C';est;je;qui;attend;eux;fermement;après l'audition
+5;2_;Num + Per;C';est;nous;qui;attendons;elle;fermement;après l'audition
+5;2_;Num + Per;C';est;elle;qui;attend;nous;fermement;après l'audition
+5;2_;Num+Gen;C';est;elles;qui;attendent;lui;fermement;après l'audition
+5;3_;Typ+Num+Per;C';est;la jurée;qui;attend;nous;fermement;après l'audition
+5;3_;Typ+Num+Per;C';est;nous;qui;attendons;la candidate;fermement;après l'audition
+5;3_;Typ+Num+Per;C';est;les jurées;qui;attendent;moi;fermement;après l'audition
+5;3_;Typ+Num+Per;C';est;je;qui;attend;les candidates;fermement;après l'audition
+5;3_;Typ+Num+Gen;C';est;les jurés;qui;attendent;elle;fermement;après l'audition
+5;3_;Typ+Num+Gen;C';est;il;qui;attend;les candidates;fermement;après l'audition
+5;3_;Typ+Num+Gen;C';est;les jurées;qui;attendent;lui;fermement;après l'audition
+5;3_;Typ+Num+Gen;C';est;ils;qui;attendent;la candidate;fermement;après l'audition
+6;0_;NoMM;C';est;la religieuse;qui;bénit;la fille;joyeusement;après chaque messe .
+6;0_;NoMM;C';est;les religieuses;qui;bénissent;les filles;joyeusement;après chaque messe .
+6;0_;NoMM;C';est;elle;qui;bénit;elle;joyeusement;après chaque messe .
+6;0_;NoMM;C';est;elles;qui;bénissent;elles;joyeusement;après chaque messe .
+6;1_;typ;C';est;elle;qui;bénit;la fille;joyeusement;après chaque messe .
+6;1_;typ;C';est;la religieuse;qui;bénit;elle;joyeusement;après chaque messe .
+6;1_;typ;C';est;les religieuses;qui;bénissent;elles;joyeusement;après chaque messe .
+6;1_;typ;C';est;elles;qui;bénissent;les filles;joyeusement;après chaque messe .
+6;1_;num;C';est;les religieuses;qui;bénissent;la fille;joyeusement;après chaque messe .
+6;1_;num;C';est;la religieuse;qui;bénit;les filles;joyeusement;après chaque messe .
+6;1_;num;C';est;elles;qui;bénissent;elle;joyeusement;après chaque messe .
+6;1_;num;C';est;elle;qui;bénit;elles;joyeusement;après chaque messe .
+6;1_;per;C';est;elle;qui;bénit;moi;joyeusement;après chaque messe .
+6;1_;per;C';est;je;qui;benis;elle;joyeusement;après chaque messe .
+6;1_;per;C';est;elles;qui;bénissent;nous;joyeusement;après chaque messe .
+6;1_;per;C';est;nous;qui;benissons;elles;joyeusement;après chaque messe .
+6;1_;gen;C';est;la religieuse;qui;bénit;le garçon;joyeusement;après chaque messe .
+6;1_;gen;C';est;le prêtre;qui;bénit;la fille;joyeusement;après chaque messe .
+6;1_;gen;C';est;elle;qui;bénit;lui;joyeusement;après chaque messe .
+6;1_;gen;C';est;il;qui;bénit;elle;joyeusement;après chaque messe .
+6;2_;Typ+Num;C';est;elles;qui;bénissent;la fille;joyeusement;après chaque messe .
+6;2_;Typ+Num;C';est;les religieuses;qui;bénissent;elle;joyeusement;après chaque messe .
+6;2_;Typ+Num;C';est;la religieuse;qui;bénit;elles;joyeusement;après chaque messe .
+6;2_;Typ+Num;C';est;elle;qui;bénit;les filles;joyeusement;après chaque messe .
+6;2_;Typ+Per;C';est;la religieuse;qui;bénit;moi;joyeusement;après chaque messe .
+6;2_;Typ+Per;C';est;je;qui;benis;la fille;joyeusement;après chaque messe .
+6;2_;Typ+Per;C';est;nous;qui;benissons;les filles;joyeusement;après chaque messe .
+6;2_;Typ+Per;C';est;les religieuses;qui;bénissent;nous;joyeusement;après chaque messe .
+6;2_;Typ+Gen;C';est;elle;qui;bénit;le garçon;joyeusement;après chaque messe .
+6;2_;Typ+Gen;C';est;il;qui;bénit;la fille;joyeusement;après chaque messe .
+6;2_;Typ+Gen;C';est;la religieuse;qui;bénit;lui;joyeusement;après chaque messe .
+6;2_;Typ+Gen;C';est;le prêtre;qui;bénit;elle;joyeusement;après chaque messe .
+6;2_;Num+Gen;C';est;les prêtres;qui;bénissent;la fille;joyeusement;après chaque messe .
+6;2_;Num+Gen;C';est;ils;qui;bénissent;elle;joyeusement;après chaque messe .
+6;2_;Num+Gen;C';est;les religieuses;qui;bénissent;le garçon;joyeusement;après chaque messe .
+6;2_;Num+Gen;C';est;elles;qui;bénissent;lui;joyeusement;après chaque messe .
+6;2_;Num + Per;C';est;ils;qui;bénissent;moi;joyeusement;après chaque messe .
+6;2_;Num + Per;C';est;je;qui;benis;eux;joyeusement;après chaque messe .
+6;2_;Num + Per;C';est;nous;qui;benissons;elle;joyeusement;après chaque messe .
+6;2_;Num + Per;C';est;elle;qui;bénit;nous;joyeusement;après chaque messe .
+6;3_;Typ+Num+Per;C';est;la religieuse;qui;bénit;nous;joyeusement;après chaque messe .
+6;3_;Typ+Num+Per;C';est;nous;qui;benissons;la fille;joyeusement;après chaque messe .
+6;3_;Typ+Num+Per;C';est;les religieuses;qui;bénissent;moi;joyeusement;après chaque messe .
+6;3_;Typ+Num+Per;C';est;je;qui;benis;les filles;joyeusement;après chaque messe .
+6;3_;Typ+Num+Gen;C';est;les prêtres;qui;bénissent;elle;joyeusement;après chaque messe .
+6;3_;Typ+Num+Gen;C';est;il;qui;bénit;les filles;joyeusement;après chaque messe .
+6;3_;Typ+Num+Gen;C';est;les religieuses;qui;bénissent;lui;joyeusement;après chaque messe .
+6;3_;Typ+Num+Gen;C';est;ils;qui;bénissent;la fille;joyeusement;après chaque messe .
+7;0_;NoMM;C';est;la sorcière;qui;inquiète;la gamine;volontairement; pour Halloween .
+7;0_;NoMM;C';est;les sorcières;qui;inquiètent;les gamines;volontairement; pour Halloween .
+7;0_;NoMM;C';est;elle;qui;inquiète;elles;volontairement; pour Halloween .
+7;0_;NoMM;C';est;elles;qui;inquiètent;elles;volontairement; pour Halloween .
+7;1_;typ;C';est;elle;qui;inquiète;la gamine;volontairement; pour Halloween .
+7;1_;typ;C';est;la sorcière;qui;inquiète;elle;volontairement; pour Halloween .
+7;1_;typ;C';est;les sorcières;qui;inquiètent;elles;volontairement; pour Halloween .
+7;1_;typ;C';est;elles;qui;inquiètent;les gamines;volontairement; pour Halloween .
+7;1_;num;C';est;les sorcières;qui;inquiètent;la gamine;volontairement; pour Halloween .
+7;1_;num;C';est;la sorcière;qui;inquiète;les gamines;volontairement; pour Halloween .
+7;1_;num;C';est;elles;qui;inquiètent;elle;volontairement; pour Halloween .
+7;1_;num;C';est;elle;qui;inquiète;elle;volontairement; pour Halloween .
+7;1_;per;C';est;elle;qui;inquiète;moi;volontairement; pour Halloween .
+7;1_;per;C';est;je;qui;inquiète;elle;volontairement; pour Halloween .
+7;1_;per;C';est;elles;qui;inquiètent;nous;volontairement; pour Halloween .
+7;1_;per;C';est;nous;qui;inquiétons;elles;volontairement; pour Halloween .
+7;1_;gen;C';est;la sorcière;qui;inquiète;le gamin;volontairement; pour Halloween .
+7;1_;gen;C';est;le sorcier;qui;inquiète;la gamine;volontairement; pour Halloween .
+7;1_;gen;C';est;elle;qui;inquiète;lui;volontairement; pour Halloween .
+7;1_;gen;C';est;il;qui;inquiète;elle;volontairement; pour Halloween .
+7;2_;Typ+Num;C';est;elles;qui;inquiètent;la gamine;volontairement; pour Halloween .
+7;2_;Typ+Num;C';est;les sorcières;qui;inquiètent;elle;volontairement; pour Halloween .
+7;2_;Typ+Num;C';est;la sorcière;qui;inquiète;elles;volontairement; pour Halloween .
+7;2_;Typ+Num;C';est;elle;qui;inquiète;les gamines;volontairement; pour Halloween .
+7;2_;Typ+Per;C';est;la sorcière;qui;inquiète;moi;volontairement; pour Halloween .
+7;2_;Typ+Per;C';est;je;qui;inquiète;la gamine;volontairement; pour Halloween .
+7;2_;Typ+Per;C';est;nous;qui;inquiétons;les gamines;volontairement; pour Halloween .
+7;2_;Typ+Per;C';est;les sorcières;qui;inquiètent;nous;volontairement; pour Halloween .
+7;2_;Typ+Gen;C';est;elle;qui;inquiète;le gamin;volontairement; pour Halloween .
+7;2_;Typ+Gen;C';est;il;qui;inquiète;la gamine;volontairement; pour Halloween .
+7;2_;Typ+Gen;C';est;la sorcière;qui;inquiète;lui;volontairement; pour Halloween .
+7;2_;Typ+Gen;C';est;le sorcier;qui;inquiète;elle;volontairement; pour Halloween .
+7;2_;Num + Per;C';est;ils;qui;inquiètent;moi;volontairement; pour Halloween .
+7;2_;Num + Per;C';est;je;qui;inquiète;eux;volontairement; pour Halloween .
+7;2_;Num + Per;C';est;nous;qui;inquiètent;elle;volontairement; pour Halloween .
+7;2_;Num + Per;C';est;elle;qui;inquiète;nous;volontairement; pour Halloween .
+7;2_;Num+Gen;C';est;les sorciers;qui;inquiètent;la gamine;volontairement; pour Halloween .
+7;2_;Num+Gen;C';est;ils;qui;inquiètent;elle;volontairement; pour Halloween .
+7;2_;Num+Gen;C';est;les sorcières;qui;inquiètent;le gamin;volontairement; pour Halloween .
+7;2_;Num+Gen;C';est;elles;qui;inquiètent;lui;volontairement; pour Halloween .
+7;3_;Typ+Num+Per;C';est;la sorcière;qui;inquiète;nous;volontairement; pour Halloween .
+7;3_;Typ+Num+Per;C';est;nous;qui;inquiétons;la gamine;volontairement; pour Halloween .
+7;3_;Typ+Num+Per;C';est;les sorcières;qui;inquiètent;moi;volontairement; pour Halloween .
+7;3_;Typ+Num+Per;C';est;je;qui;inquiète;les gamines;volontairement; pour Halloween .
+7;3_;Typ+Num+Gen;C';est;les sorciers;qui;inquiètent;elle;volontairement; pour Halloween .
+7;3_;Typ+Num+Gen;C';est;il;qui;inquiète;les gamines;volontairement; pour Halloween .
+7;3_;Typ+Num+Gen;C';est;les sorcières;qui;inquiètent;lui;volontairement; pour Halloween .
+7;3_;Typ+Num+Gen;C';est;ils;qui;inquiètent;la gamine;volontairement; pour Halloween .
+8;0_;NoMM;C';est;la spectatrice;qui;applaudit;l'actrice;frénétiquement; à chaque représentation .
+8;0_;NoMM;C';est;les spectatrices;qui;applaudissent;les actrices;frénétiquement; à chaque représentation .
+8;0_;NoMM;C';est;elle;qui;applaudit;elles;frénétiquement; à chaque représentation .
+8;0_;NoMM;C';est;elles;qui;applaudissent;elles;frénétiquement; à chaque représentation .
+8;1_;typ;C';est;elle;qui;applaudit;l'actrice;frénétiquement; à chaque représentation .
+8;1_;typ;C';est;la spectatrice;qui;applaudit;elle;frénétiquement; à chaque représentation .
+8;1_;typ;C';est;les spectatrices;qui;applaudissent;elle;frénétiquement; à chaque représentation .
+8;1_;typ;C';est;elles;qui;applaudissent;les actrices;frénétiquement; à chaque représentation .
+8;1_;num;C';est;les spectatrices;qui;applaudissent;l'actrice;frénétiquement; à chaque représentation .
+8;1_;num;C';est;la spectatrice;qui;applaudit;les actrices;frénétiquement; à chaque représentation .
+8;1_;num;C';est;elles;qui;applaudissent;elle;frénétiquement; à chaque représentation .
+8;1_;num;C';est;elle;qui;applaudit;elles;frénétiquement; à chaque représentation .
+8;1_;per;C';est;elle;qui;applaudit;moi;frénétiquement; à chaque représentation .
+8;1_;per;C';est;je;qui;applaudit;elle;frénétiquement; à chaque représentation .
+8;1_;per;C';est;elles;qui;applaudissent;nous;frénétiquement; à chaque représentation .
+8;1_;per;C';est;nous;qui;applaudissons;elles;frénétiquement; à chaque représentation .
+8;1_;gen;C';est;la spectatrice;qui;applaudit;l'acteur;frénétiquement; à chaque représentation .
+8;1_;gen;C';est;le spectateur;qui;applaudit;l'actrice;frénétiquement; à chaque représentation .
+8;1_;gen;C';est;elle;qui;applaudit;lui;frénétiquement; à chaque représentation .
+8;1_;gen;C';est;il;qui;applaudit;elle;frénétiquement; à chaque représentation .
+8;2_;Typ+Num;C';est;elles;qui;applaudissent;l'actrice;frénétiquement; à chaque représentation .
+8;2_;Typ+Num;C';est;les spectatrices;qui;applaudissent;elle;frénétiquement; à chaque représentation .
+8;2_;Typ+Num;C';est;la spectatrice;qui;applaudit;elle;frénétiquement; à chaque représentation .
+8;2_;Typ+Num;C';est;elle;qui;applaudit;les actrices;frénétiquement; à chaque représentation .
+8;2_;Typ+Per;C';est;la spectatrice;qui;applaudit;moi;frénétiquement; à chaque représentation .
+8;2_;Typ+Per;C';est;je;qui;applaudit;l'actrice;frénétiquement; à chaque représentation .
+8;2_;Typ+Per;C';est;nous;qui;applaudissons;les actrices;frénétiquement; à chaque représentation .
+8;2_;Typ+Per;C';est;les spectatrices;qui;applaudissent;nous;frénétiquement; à chaque représentation .
+8;2_;Typ+Gen;C';est;elle;qui;applaudit;l'acteur;frénétiquement; à chaque représentation .
+8;2_;Typ+Gen;C';est;il;qui;applaudit;l'actrice;frénétiquement; à chaque représentation .
+8;2_;Typ+Gen;C';est;la spectatrice;qui;applaudit;lui;frénétiquement; à chaque représentation .
+8;2_;Typ+Gen;C';est;le spectateur;qui;applaudit;elle;frénétiquement; à chaque représentation .
+7;2_;Num + Per;C';est;ils;qui;applaudissent;moi;frénétiquement; à chaque représentation .
+7;2_;Num + Per;C';est;je;qui;applaudit;eux;frénétiquement; à chaque représentation .
+7;2_;Num + Per;C';est;nous;qui;applaudissons;elle;frénétiquement; à chaque représentation .
+7;2_;Num + Per;C';est;elle;qui;applaudit;nous;frénétiquement; à chaque représentation .
+8;2_;Num+Gen;C';est;les spectateurs;qui;applaudissent;l'actrice;frénétiquement; à chaque représentation .
+8;2_;Num+Gen;C';est;ils;qui;applaudissent;elle;frénétiquement; à chaque représentation .
+8;2_;Num+Gen;C';est;les spectatrices;qui;applaudissent;l'acteur;frénétiquement; à chaque représentation .
+8;2_;Num+Gen;C';est;elles;qui;applaudissent;lui;frénétiquement; à chaque représentation .
+8;3_;Typ+Num+Per;C';est;la spectatrice;qui;applaudit;nous;frénétiquement; à chaque représentation .
+8;3_;Typ+Num+Per;C';est;nous;qui;applaudissons;l'actrice;frénétiquement; à chaque représentation .
+8;3_;Typ+Num+Per;C';est;les spectatrices;qui;applaudissent;moi;frénétiquement; à chaque représentation .
+8;3_;Typ+Num+Per;C';est;je;qui;applaudit;les actrices;frénétiquement; à chaque représentation .
+8;3_;Typ+Num+Gen;C';est;les spectateurs;qui;applaudissent;elle;frénétiquement; à chaque représentation .
+8;3_;Typ+Num+Gen;C';est;il;qui;applaudit;les actrices;frénétiquement; à chaque représentation .
+8;3_;Typ+Num+Gen;C';est;les spectatrices;qui;applaudissent;lui;frénétiquement; à chaque représentation .
+8;3_;Typ+Num+Gen;C';est;ils;qui;applaudissent;l'actrice;frénétiquement; à chaque représentation .

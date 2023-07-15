@@ -1,0 +1,513 @@
+﻿numexp;mismatch;variable;1;2;3;4;5;6;7;8
+1;1_N_;Head;C';est;l' étudiant  ;que;la voix;de l' orateur ;endort;depuis le début  .
+1;0_;Head;C';est;les étudiants;que;la voix;de l' orateur ;endort;depuis le début  .
+1;2_;Head;C';est;l' étudiant  ;que;le bruit;de l' orateur ;endort;depuis le début  .
+1;1_G_;Head;C';est;les étudiants;que;le bruit;de l' orateur ;endort;depuis le début  .
+1;2_;Head;C';est;l'étudiante;que;la voix;de l' orateur ;endort;depuis le début  .
+1;1_G_;Head;C';est;les étudiantes;que;la voix;de l' orateur ;endort;depuis le début  .
+1;1_N_;Head;C';est;l'étudiante;que;le bruit;de l' orateur ;endort;depuis le début  .
+1;0_;Head;C';est;les étudiantes;que;le bruit;de l' orateur ;endort;depuis le début  .
+1;0_;Head;C';est;l'étudiant;que;les musiques;de l' orateur ;endorment;depuis le début  .
+1;1_N_;Head;C';est;les étudiants;que;les musiques;de l' orateur ;endorment;depuis le début  .
+1;1_G_;Head;C';est;l'étudiant;que;les bruites;de l' orateur ;endorment;depuis le début  .
+1;2_;Head;C';est;les étudiants;que;les bruites;de l' orateur ;endorment;depuis le début  .
+1;1_G_;Head;C';est;l'étudiante;que;les musiques;de l' orateur ;endorment;depuis le début  .
+1;2_;Head;C';est;les étudiantes;que;les musiques;de l' orateur ;endorment;depuis le début  .
+1;0_;Head;C';est;l'étudiante;que;les bruites;de l' orateur ;endorment;depuis le début  .
+1;1_N_;Head;C';est;les étudiantes;que;les bruites;de l' orateur ;endorment;depuis le début  .
+1;2_;Embedd;C';est;l'étudiant;que;la voix;de l' orateur ;endort;depuis le début  .
+1;1_G_;Embedd;C';est;les étudiants;que;la voix;de l' orateur ;endort;depuis le début  .
+1;1_N_;Embedd;C';est;l'étudiant;que;la voix;de la presentratrice;endort;depuis le début  .
+1;0_;Embedd;C';est;les étudiants;que;la voix;de la presentratrice;endort;depuis le début  .
+1;1_N_;Embedd;C';est;l'étudiante;que;la voix;de l' orateur ;endort;depuis le début  .
+1;0_;Embedd;C';est;les étudiantes;que;la voix;de l' orateur ;endort;depuis le début  .
+1;2_;Embedd;C';est;l'étudiante;que;la voix;de la presentratrice;endort;depuis le début  .
+1;1_G_;Embedd;C';est;les étudiantes;que;la voix;de la presentratrice;endort;depuis le début  .
+1;1_G_;Embedd;C';est;l'étudiant;que;la voix;des orateurs;endort;depuis le début  .
+1;2_;Embedd;C';est;les étudiants;que;la voix;des orateurs;endort;depuis le début  .
+1;0_;Embedd;C';est;l'étudiant;que;la voix;des presentatrices;endort;depuis le début  .
+1;1_N_;Embedd;C';est;les étudiants;que;la voix;des presentatrices;endort;depuis le début  .
+1;0_;Embedd;C';est;l'étudiante;que;la voix;des orateurs;endort;depuis le début  .
+1;1_N_;Embedd;C';est;les étudiantes;que;la voix;des orateurs;endort;depuis le début  .
+1;1_G_;Embedd;C';est;l'étudiante;que;la voix;des presentatrices;endort;depuis le début  .
+1;2_;Embedd;C';est;les étudiantes;que;la voix;des presentatrices;endort;depuis le début  .
+2;1_N_;Head;C';est;l'électeur;que;la candidature;du politicien;déçoit;depuis les élections .
+2;0_;Head;C';est;les électeurs;que;la candidature;du politicien;déçoit; depuis les élections .
+2;2_;Head;C';est;l'électeur;que;le comportement ;du politicien;déçoit; depuis les élections .
+2;1_G_;Head;C';est;les électeurs;que;le comportement ;du politicien;déçoit; depuis les élections .
+2;2_;Head;C';est;l'électrice;que;la candidature;du politicien;déçoit; depuis les élections .
+2;1_G_;Head;C';est;les électrices;que;la candidature;du politicien;déçoit; depuis les élections .
+2;1_N_;Head;C';est;l'électrice;que;le comportement ;du politicien;déçoit; depuis les élections .
+2;0_;Head;C';est;les électrices;que;le comportement ;du politicien;déçoit; depuis les élections .
+2;0_;Head;C';est;l'électeur;que;les candidatures;du politicien;déçoivent; depuis les élections .
+2;1_N_;Head;C';est;les électeurs;que;les candidatures;du politicien;déçoivent; depuis les élections .
+2;1_G_;Head;C';est;l'électeur;que;les comportements ;du politicien;déçoivent; depuis les élections .
+2;2_;Head;C';est;les électeurs;que;les comportements;du politicien;déçoivent; depuis les élections .
+2;1_G_;Head;C';est;l'électrice;que;les candidatures;du politicien;déçoivent; depuis les élections .
+2;2_;Head;C';est;les électrices;que;les candidatures;du politicien;déçoivent; depuis les élections .
+2;0_;Head;C';est;l'électrice;que;les comportements ;du politicien;déçoivent; depuis les élections .
+2;1_N_;Head;C';est;les électrices;que;les comportements;du politicien;déçoivent; depuis les élections .
+2;2_;Embedd;C';est;l'électeur;que;la candidature;du politicien;déçoit; depuis les élections .
+2;1_G_;Embedd;C';est;les électeurs;que;la candidature;du politicien;déçoit; depuis les élections .
+2;1_N_;Embedd;C';est;l'électeur;que;la candidature;de la politicienne;déçoit; depuis les élections .
+2;0_;Embedd;C';est;les électeurs;que;la candidature;de la politicienne;déçoit; depuis les élections .
+2;1_N_;Embedd;C';est;l'électrice;que;la candidature;du politicien;déçoit; depuis les élections .
+2;0_;Embedd;C';est;les électrices;que;la candidature;du politicien;déçoit; depuis les élections .
+2;2_;Embedd;C';est;l'électrice;que;la candidature;de la politicienne;déçoit; depuis les élections .
+2;1_G_;Embedd;C';est;les électrices;que;la candidature;de la politicienne;déçoit; depuis les élections .
+2;1_G_;Embedd;C';est;l'électeur;que;la candidature;des politiciens;déçoit; depuis les élections .
+2;2_;Embedd;C';est;les électeurs;que;la candidature;des politiciens;déçoit; depuis les élections .
+2;0_;Embedd;C';est;l'électeur;que;la candidature;des politiciennes;déçoit; depuis les élections .
+2;1_N_;Embedd;C';est;les électeurs;que;la candidature;des politiciennes;déçoit; depuis les élections .
+2;0_;Embedd;C';est;l'électrice;que;la candidature;des politiciens;déçoit; depuis les élections .
+2;1_N_;Embedd;C';est;les électrices;que;la candidature;des politiciens;déçoit; depuis les élections .
+2;1_G_;Embedd;C';est;l'électrice;que;la candidature;des politiciennes;déçoit; depuis les élections .
+2;2_;Embedd;C';est;les électrices;que;la candidature;des politiciennes;déçoit; depuis les élections .
+3;1_N_;Head;C';est;le prisonnier;que;la tortue;du gardien;reconnais;dans la cour .
+3;0_;Head;C';est;les prisonniers;que;la tortue;du gardien;reconnais;dans la cour .
+3;2_;Head;C';est;le prisonnier;que;le chien;du gardien;reconnais;dans la cour .
+3;1_G_;Head;C';est;les prisonniers;que;le chien;du gardien;reconnais;dans la cour .
+3;2_;Head;C';est;la prisonniere;que;la tortue;du gardien;reconnais;dans la cour .
+3;1_G_;Head;C';est;les prisonnieres;que;la tortue;du gardien;reconnais;dans la cour .
+3;1_N_;Head;C';est;la prisonniere;que;le chien;du gardien;reconnais;dans la cour .
+3;0_;Head;C';est;les prisonnieres;que;le chien;du gardien;reconnais;dans la cour .
+3;0_;Head;C';est;le prisonnier;que;les tortues;du gardien;reconnaissent;dans la cour .
+3;1_N_;Head;C';est;les prisonniers;que;les tortues;du gardien;reconnaissent;dans la cour .
+3;1_G_;Head;C';est;le prisonnier;que;les chiens;du gardien;reconnaissent;dans la cour .
+3;2_;Head;C';est;les prisonniers;que;les chiens;du gardien;reconnaissent;dans la cour .
+3;1_G_;Head;C';est;la prisonniere;que;les tortues;du gardien;reconnaissent;dans la cour .
+3;2_;Head;C';est;les prisonnieres;que;les tortues;du gardien;reconnaissent;dans la cour .
+3;0_;Head;C';est;la prisonniere;que;les chiens;du gardien;reconnaissent;dans la cour .
+3;1_N_;Head;C';est;les prisonnieres;que;les chiens;du gardien;reconnaissent;dans la cour .
+3;2_;Embedd;C';est;le prisonnier;que;le chien;du gardien;reconnais;dans la cour .
+3;1_G_;Embedd;C';est;les prisonniers;que;le chien;du gardien;reconnais;dans la cour .
+3;1_N_;Embedd;C';est;le prisonnier;que;le chien;de la gardienne;reconnais;dans la cour .
+3;0_;Embedd;C';est;les prisonniers;que;le chien;de la gardienne;reconnais;dans la cour .
+3;1_N_;Embedd;C';est;la prisonniere;que;le chien;du gardien;reconnais;dans la cour .
+3;0_;Embedd;C';est;les prisonnieres;que;le chien;du gardien;reconnais;dans la cour .
+3;2_;Embedd;C';est;la prisonniere;que;le chien;de la gardienne;reconnais;dans la cour .
+3;1_G_;Embedd;C';est;les prisonnieres;que;le chien;de la gardienne;reconnais;dans la cour .
+3;1_G_;Embedd;C';est;le prisonnier;que;le chien;des gardiens;reconnais;dans la cour .
+3;2_;Embedd;C';est;les prisonniers;que;le chien;des gardiens;reconnais;dans la cour .
+3;0_;Embedd;C';est;le prisonnier;que;le chien;des gardiennes;reconnais;dans la cour .
+3;1_N_;Embedd;C';est;les prisonniers;que;le chien;des gardiennes;reconnais;dans la cour .
+3;0_;Embedd;C';est;la prisonniere;que;le chien;des gardiens;reconnais;dans la cour .
+3;1_N_;Embedd;C';est;les prisonnieres;que;le chien;des gardiens;reconnais;dans la cour .
+3;1_G_;Embedd;C';est;la prisonniere;que;le chien;des gardiennes;reconnais;dans la cour .
+3;2_;Embedd;C';est;les prisonnieres;que;le chien;des gardiennes;reconnais;dans la cour .
+4;1_N_;Head;C';est;l'adolescent;que;la clinique;de l'éducateur;héberge;depuis quelques années .
+4;0_;Head;C';est;les adolescents;que;la clinique;de l'éducateur;héberge;depuis quelques années .
+4;2_;Head;C';est;l'adolescent;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;1_G_;Head;C';est;les adolescents;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;2_;Head;C';est;l'adolescente;que;la clinique;de l'éducateur;héberge;depuis quelques années .
+4;1_G_;Head;C';est;les adolescentes;que;la clinique;de l'éducateur;héberge;depuis quelques années .
+4;1_N_;Head;C';est;l'adolescente;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;0_;Head;C';est;les adolescentes;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;0_;Head;C';est;l'adolescent;que;les cliniques;de l'éducateur;hébergent;depuis quelques années .
+4;1_N_;Head;C';est;les adolescents;que;les cliniques;de l'éducateur;hébergent;depuis quelques années .
+4;1_G_;Head;C';est;l'adolescent;que;les instituts;de l'éducateur;hébergent;depuis quelques années .
+4;2_;Head;C';est;les adolescents;que;les instituts;de l'éducateur;hébergent;depuis quelques années .
+4;1_G_;Head;C';est;l'adolescente;que;les cliniques;de l'éducateur;hébergent;depuis quelques années .
+4;2_;Head;C';est;les adolescentes;que;les cliniques;de l'éducateur;hébergent;depuis quelques années .
+4;0_;Head;C';est;l'adolescente;que;les instituts;de l'éducateur;hébergent;depuis quelques années .
+4;1_N_;Head;C';est;les adolescentes;que;les instituts;de l'éducateur;hébergent;depuis quelques années .
+4;2_;Embedd;C';est;l'adolescent;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;1_G_;Embedd;C';est;les adolescents;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;1_N_;Embedd;C';est;l'adolescent;que;l'institut;de l'éducatrice;héberge;depuis quelques années .
+4;0_;Embedd;C';est;les adolescents;que;l'institut;de l'éducatrice;héberge;depuis quelques années .
+4;1_N_;Embedd;C';est;l'adolescente;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;0_;Embedd;C';est;les adolescentes;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;2_;Embedd;C';est;l'adolescente;que;l'institut;de l'éducatrice;héberge;depuis quelques années .
+4;1_G_;Embedd;C';est;les adolescentes;que;l'institut;de l'éducatrice;héberge;depuis quelques années .
+4;1_G_;Embedd;C';est;l'adolescent;que;l'institut;des éducateurs;héberge;depuis quelques années .
+4;2_;Embedd;C';est;les adolescents;que;l'institut;des éducateurs;héberge;depuis quelques années .
+4;0_;Embedd;C';est;l'adolescent;que;l'institut;des éducatrices;héberge;depuis quelques années .
+4;1_N_;Embedd;C';est;les adolescents;que;l'institut;des éducatrices;héberge;depuis quelques années .
+4;0_;Embedd;C';est;l'adolescente;que;l'institut;des éducateurs;héberge;depuis quelques années .
+4;1_N_;Embedd;C';est;les adolescentes;que;l'institut;des éducateurs;héberge;depuis quelques années .
+4;1_G_;Embedd;C';est;l'adolescente;que;l'institut;des éducatrices;héberge;depuis quelques années .
+4;2_;Embedd;C';est;les adolescentes;que;l'institut;des éducatrices;héberge;depuis quelques années .
+5;1_N_;Head;C';est;le candidat;que;la voiture;du juré;attend;après l'audition
+5;0_;Head;C';est;les candidats;que;la voiture;du juré;attend;après l'audition
+5;2_;Head;C';est;le candidat;que;le taxi;du juré;attend;après l'audition
+5;1_G_;Head;C';est;les candidats;que;le taxi;du juré;attend;après l'audition
+5;2_;Head;C';est;la candidate;que;la voiture;du juré;attend;après l'audition
+5;1_G_;Head;C';est;les candidates;que;la voiture;du juré;attend;après l'audition
+5;1_N_;Head;C';est;la candidate;que;le taxi;du juré;attend;après l'audition
+5;0_;Head;C';est;les candidates;que;le taxi;du juré;attend;après l'audition
+5;0_;Head;C';est;le candidat;que;les voitures;du juré;attendent;après l'audition
+5;1_N_;Head;C';est;les candidats;que;les voitures;du juré;attendent;après l'audition
+5;1_G_;Head;C';est;le candidat;que;les taxis;du juré;attendent;après l'audition
+5;2_;Head;C';est;les candidats;que;les taxi;du juré;attendent;après l'audition
+5;1_G_;Head;C';est;la candidate;que;les voitures;du juré;attendent;après l'audition
+5;2_;Head;C';est;les candidates;que;les voitures;du juré;attendent;après l'audition
+5;0_;Head;C';est;la candidate;que;les taxis;du juré;attendent;après l'audition
+5;1_N_;Head;C';est;les candidates;que;les taxi;du juré;attendent;après l'audition
+5;2_;Embedd;C';est;le candidat;que;le taxi;du juré;attend;après l'audition
+5;1_G_;Embedd;C';est;les candidats;que;le taxi;du juré;attend;après l'audition
+5;1_N_;Embedd;C';est;le candidat;que;le taxi;de la jurée;attend;après l'audition
+5;0_;Embedd;C';est;les candidats;que;le taxi;de la jurée;attend;après l'audition
+5;1_N_;Embedd;C';est;la candidate;que;le taxi;du juré;attend;après l'audition
+5;0_;Embedd;C';est;les candidates;que;le taxi;du juré;attend;après l'audition
+5;2_;Embedd;C';est;la candidate;que;le taxi;de la jurée;attend;après l'audition
+5;1_G_;Embedd;C';est;les candidates;que;le taxi;de la jurée;attend;après l'audition
+5;1_G_;Embedd;C';est;le candidat;que;le taxi;des jurés;attend;après l'audition
+5;2_;Embedd;C';est;les candidats;que;le taxi;des jurés;attend;après l'audition
+5;0_;Embedd;C';est;le candidat;que;le taxi;des jurées;attend;après l'audition
+5;1_N_;Embedd;C';est;les candidats;que;le taxi;des jurées;attend;après l'audition
+5;0_;Embedd;C';est;la candidate;que;le taxi;des jurés;attend;après l'audition
+5;1_N_;Embedd;C';est;les candidates;que;le taxi;des jurés;attend;après l'audition
+5;1_G_;Embedd;C';est;la candidate;que;le taxi;des jurées;attend;après l'audition
+5;2_;Embedd;C';est;les candidates;que;le taxi;des jurées;attend;après l'audition
+6;1_N_;Head;C';est;le garçon;que;la phrase;du prêtre;bénit;après chaque messe .
+6;0_;Head;C';est;les garçons;que;la phrase;du prêtre;bénit;après chaque messe .
+6;2_;Head;C';est;le garçon;que;le mot;du prêtre;bénit;après chaque messe .
+6;1_G_;Head;C';est;les garçons;que;le mot;du prêtre;bénit;après chaque messe .
+6;2_;Head;C';est;la fille;que;la phrase;du prêtre;bénit;après chaque messe .
+6;1_G_;Head;C';est;les filles;que;la phrase;du prêtre;bénit;après chaque messe .
+6;1_N_;Head;C';est;la fille;que;le mot;du prêtre;bénit;après chaque messe .
+6;0_;Head;C';est;les filles;que;le mot;du prêtre;bénit;après chaque messe .
+6;0_;Head;C';est;le garçon;que;les phrases;du prêtre;bénissent;après chaque messe .
+6;1_N_;Head;C';est;les garçons;que;les phrases;du prêtre;bénissent;après chaque messe .
+6;1_G_;Head;C';est;le garçon;que;les mots;du prêtre;bénissent;après chaque messe .
+6;2_;Head;C';est;les garçons;que;les mots;du prêtre;bénissent;après chaque messe .
+6;1_G_;Head;C';est;la fille;que;les phrases;du prêtre;bénissent;après chaque messe .
+6;2_;Head;C';est;les filles;que;les phrases;du prêtre;bénissent;après chaque messe .
+6;0_;Head;C';est;la fille;que;les mots;du prêtre;bénissent;après chaque messe .
+6;1_N_;Head;C';est;les filles;que;les mots;du prêtre;bénissent;après chaque messe .
+6;2_;Embedd;C';est;le garçon;que;le mot;du prêtre;bénit;après chaque messe .
+6;1_G_;Embedd;C';est;les garçons;que;le mot;du prêtre;bénit;après chaque messe .
+6;1_N_;Embedd;C';est;le garçon;que;le mot;de la religieuse;bénit;après chaque messe .
+6;0_;Embedd;C';est;les garçons;que;le mot;de la religieuse;bénit;après chaque messe .
+6;1_N_;Embedd;C';est;la fille;que;le mot;du prêtre;bénit;après chaque messe .
+6;0_;Embedd;C';est;les filles;que;le mot;du prêtre;bénit;après chaque messe .
+6;2_;Embedd;C';est;la fille;que;le mot;de la religieuse;bénit;après chaque messe .
+6;1_G_;Embedd;C';est;les filles;que;le mot;de la religieuse;bénit;après chaque messe .
+6;1_G_;Embedd;C';est;le garçon;que;le mot;des prêtres;bénit;après chaque messe .
+6;2_;Embedd;C';est;les garçons;que;le mot;des prêtres;bénit;après chaque messe .
+6;0_;Embedd;C';est;le garçon;que;le mot;des religieuses;bénit;après chaque messe .
+6;1_N_;Embedd;C';est;les garçons;que;le mot;des religieuses;bénit;après chaque messe .
+6;0_;Embedd;C';est;la fille;que;le mot;des prêtres;bénit;après chaque messe .
+6;1_N_;Embedd;C';est;les filles;que;le mot;des prêtres;bénit;après chaque messe .
+6;1_G_;Embedd;C';est;la fille;que;le mot;des religieuses;bénit;après chaque messe .
+6;2_;Embedd;C';est;les filles;que;le mot;des religieuses;bénit;après chaque messe .
+7;1_N_;Head;C';est;le gamin;que;la magie;du sorcier;inquiète; pour Halloween .
+7;0_;Head;C';est;les gamins;que;la magie;du sorcier;inquiète; pour Halloween .
+7;2_;Head;C';est;le gamin;que;le chapeau;du sorcier;inquiète; pour Halloween .
+7;1_G_;Head;C';est;les gamins;que;le chapeau;du sorcier;inquiète; pour Halloween .
+7;2_;Head;C';est;la gamine;que;la magie;du sorcier;inquiète; pour Halloween .
+7;1_G_;Head;C';est;les gamines;que;la magie;du sorcier;inquiète; pour Halloween .
+7;1_N_;Head;C';est;la gamine;que;le chapeau;du sorcier;inquiète; pour Halloween .
+7;0_;Head;C';est;les gamines;que;le chapeau;du sorcier;inquiète; pour Halloween .
+7;0_;Head;C';est;le gamin;que;les magies;du sorcier;inquiètent; pour Halloween .
+7;1_N_;Head;C';est;les gamins;que;les magies;du sorcier;inquiètent; pour Halloween .
+7;1_G_;Head;C';est;le gamin;que;les chapeaux;du sorcier;inquiètent; pour Halloween .
+7;2_;Head;C';est;les gamins;que;les chapeaux;du sorcier;inquiètent; pour Halloween .
+7;1_G_;Head;C';est;la gamine;que;les magies;du sorcier;inquiètent; pour Halloween .
+7;2_;Head;C';est;les gamines;que;les magies;du sorcier;inquiètent; pour Halloween .
+7;0_;Head;C';est;la gamine;que;les chapeaux;du sorcier;inquiètent; pour Halloween .
+7;1_N_;Head;C';est;les gamines;que;les chapeaux;du sorcier;inquiètent; pour Halloween .
+7;2_;Embedd;C';est;le gamin;que;la magie;du sorcier;inquiète; pour Halloween .
+7;1_G_;Embedd;C';est;les gamins;que;la magie;du sorcier;inquiète; pour Halloween .
+7;1_N_;Embedd;C';est;le gamin;que;la magie;de la sorcière;inquiète; pour Halloween .
+7;0_;Embedd;C';est;les gamins;que;la magie;de la sorcière;inquiète; pour Halloween .
+7;1_N_;Embedd;C';est;la gamine;que;la magie;du sorcier;inquiète; pour Halloween .
+7;0_;Embedd;C';est;les gamines;que;la magie;du sorcier;inquiète; pour Halloween .
+7;2_;Embedd;C';est;la gamine;que;la magie;de la sorcière;inquiète; pour Halloween .
+7;1_G_;Embedd;C';est;les gamines;que;la magie;de la sorcière;inquiète; pour Halloween .
+7;1_G_;Embedd;C';est;le gamin;que;la magie;des sorciers;inquiète; pour Halloween .
+7;2_;Embedd;C';est;les gamins;que;la magie;des sorciers;inquiète; pour Halloween .
+7;0_;Embedd;C';est;le gamin;que;la magie;des sorcières;inquiète; pour Halloween .
+7;1_N_;Embedd;C';est;les gamins;que;la magie;des sorcières;inquiète; pour Halloween .
+7;0_;Embedd;C';est;la gamine;que;la magie;des sorciers;inquiète; pour Halloween .
+7;1_N_;Embedd;C';est;les gamines;que;la magie;des sorciers;inquiète; pour Halloween .
+7;1_G_;Embedd;C';est;la gamine;que;la magie;des sorcières;inquiète; pour Halloween .
+7;2_;Embedd;C';est;les gamines;que;la magie;des sorcières;inquiète; pour Halloween .
+8;1_N_;Head;C';est;l'acteur;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;0_;Head;C';est;les acteurs;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;2_;Head;C';est;l'acteur;que;le fils;du spectateur;applaudit; à chaque représentation .
+8;1_G_;Head;C';est;les acteurs;que;le fils;du spectateur;applaudit; à chaque représentation .
+8;2_;Head;C';est;l'actrice;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;1_G_;Head;C';est;les actrices;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;1_N_;Head;C';est;l'actrice;que;le fils;du spectateur;applaudit; à chaque représentation .
+8;0_;Head;C';est;les actrices;que;le fils;du spectateur;applaudit; à chaque représentation .
+8;0_;Head;C';est;l'acteur;que;les filles;du spectateur;applaudissent; à chaque représentation .
+8;1_N_;Head;C';est;les acteurs;que;les filles;du spectateur;applaudissent; à chaque représentation .
+8;1_G_;Head;C';est;l'acteur;que;les fils;du spectateur;applaudissent; à chaque représentation .
+8;2_;Head;C';est;les acteurs;que;les fils;du spectateur;applaudissent; à chaque représentation .
+8;1_G_;Head;C';est;l'actrice;que;les filles;du spectateur;applaudissent; à chaque représentation .
+8;2_;Head;C';est;les actrices;que;les filles;du spectateur;applaudissent; à chaque représentation .
+8;0_;Head;C';est;l'actrice;que;les fils;du spectateur;applaudissent; à chaque représentation .
+8;1_N_;Head;C';est;les actrices;que;les fils;du spectateur;applaudissent; à chaque représentation .
+8;2_;Embedd;C';est;l'acteur;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;1_G_;Embedd;C';est;les acteurs;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;1_N_;Embedd;C';est;l'acteur;que;la fille;de la spectatrice;applaudit; à chaque représentation .
+8;0_;Embedd;C';est;les acteurs;que;la fille;de la spectatrice;applaudit; à chaque représentation .
+8;1_N_;Embedd;C';est;l'actrice;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;0_;Embedd;C';est;les actrices;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;2_;Embedd;C';est;l'actrice;que;la fille;de la spectatrice;applaudit; à chaque représentation .
+8;1_G_;Embedd;C';est;les actrices;que;la fille;de la spectatrice;applaudit; à chaque représentation .
+8;1_G_;Embedd;C';est;l'acteur;que;la fille;des spectateurs;applaudit; à chaque représentation .
+8;2_;Embedd;C';est;les acteurs;que;la fille;des spectateurs;applaudit; à chaque représentation .
+8;0_;Embedd;C';est;l'acteur;que;la fille;des spectatrices;applaudit; à chaque représentation .
+8;1_N_;Embedd;C';est;les acteurs;que;la fille;des spectatrices;applaudit; à chaque représentation .
+8;0_;Embedd;C';est;l'actrice;que;la fille;des spectateurs;applaudit; à chaque représentation .
+8;1_N_;Embedd;C';est;les actrices;que;la fille;des spectateurs;applaudit; à chaque représentation .
+8;1_G_;Embedd;C';est;l'actrice;que;la fille;des spectatrices;applaudit; à chaque représentation .
+8;2_;Embedd;C';est;les actrices;que;la fille;des spectatrices;applaudit; à chaque représentation .
+1;1_N_;Head;C';est;lui;que;la voix;de l' orateur ;endort;depuis le début  .
+1;0_;Head;C';est;eux;que;la voix;de l' orateur ;endort;depuis le début  .
+1;2_;Head;C';est;lui;que;le bruit;de l' orateur ;endort;depuis le début  .
+1;1_G_;Head;C';est;eux;que;le bruit;de l' orateur ;endort;depuis le début  .
+1;2_;Head;C';est;elle;que;la voix;de l' orateur ;endort;depuis le début  .
+1;1_G_;Head;C';est;elles;que;la voix;de l' orateur ;endort;depuis le début  .
+1;1_N_;Head;C';est;elle;que;le bruit;de l' orateur ;endort;depuis le début  .
+1;0_;Head;C';est;elles;que;le bruit;de l' orateur ;endort;depuis le début  .
+1;0_;Head;C';est;lui;que;les musiques;de l' orateur ;endorment;depuis le début  .
+1;1_N_;Head;C';est;eux;que;les musiques;de l' orateur ;endorment;depuis le début  .
+1;1_G_;Head;C';est;lui;que;les bruites;de l' orateur ;endorment;depuis le début  .
+1;2_;Head;C';est;eux;que;les bruites;de l' orateur ;endorment;depuis le début  .
+1;1_G_;Head;C';est;elle;que;les musiques;de l' orateur ;endorment;depuis le début  .
+1;2_;Head;C';est;elles;que;les musiques;de l' orateur ;endorment;depuis le début  .
+1;0_;Head;C';est;elle;que;les bruites;de l' orateur ;endorment;depuis le début  .
+1;1_N_;Head;C';est;elles;que;les bruites;de l' orateur ;endorment;depuis le début  .
+1;2_;Embedd;C';est;lui;que;la voix;de l' orateur ;endort;depuis le début  .
+1;1_G_;Embedd;C';est;eaux;que;la voix;de l' orateur ;endort;depuis le début  .
+1;1_N_;Embedd;C';est;lui;que;la voix;de la presentratrice;endort;depuis le début  .
+1;0_;Embedd;C';est;eaux;que;la voix;de la presentratrice;endort;depuis le début  .
+1;1_N_;Embedd;C';est;elle;que;la voix;de l' orateur ;endort;depuis le début  .
+1;0_;Embedd;C';est;elles;que;la voix;de l' orateur ;endort;depuis le début  .
+1;2_;Embedd;C';est;elle;que;la voix;de la presentratrice;endort;depuis le début  .
+1;1_G_;Embedd;C';est;elles;que;la voix;de la presentratrice;endort;depuis le début  .
+1;1_G_;Embedd;C';est;lui;que;la voix;des orateurs;endort;depuis le début  .
+1;2_;Embedd;C';est;eaux;que;la voix;des orateurs;endort;depuis le début  .
+1;0_;Embedd;C';est;lui;que;la voix;des presentatrices;endort;depuis le début  .
+1;1_N_;Embedd;C';est;eaux;que;la voix;des presentatrices;endort;depuis le début  .
+1;0_;Embedd;C';est;elle;que;la voix;des orateurs;endort;depuis le début  .
+1;1_N_;Embedd;C';est;elles;que;la voix;des orateurs;endort;depuis le début  .
+1;1_G_;Embedd;C';est;elle;que;la voix;des presentatrices;endort;depuis le début  .
+1;2_;Embedd;C';est;elles;que;la voix;des presentatrices;endort;depuis le début  .
+2;1_N_;Head;C';est;lui;que;la candidature;du politicien;déçoit;depuis les élections .
+2;0_;Head;C';est;eux;que;la candidature;du politicien;déçoit; depuis les élections .
+2;2_;Head;C';est;lui;que;le comportement ;du politicien;déçoit; depuis les élections .
+2;1_G_;Head;C';est;eux;que;le comportement ;du politicien;déçoit; depuis les élections .
+2;2_;Head;C';est;elle;que;la candidature;du politicien;déçoit; depuis les élections .
+2;1_G_;Head;C';est;elles;que;la candidature;du politicien;déçoit; depuis les élections .
+2;1_N_;Head;C';est;elle;que;le comportement ;du politicien;déçoit; depuis les élections .
+2;0_;Head;C';est;elles;que;le comportement ;du politicien;déçoit; depuis les élections .
+2;0_;Head;C';est;lui;que;les candidatures;du politicien;déçoivent; depuis les élections .
+2;1_N_;Head;C';est;eux;que;les candidatures;du politicien;déçoivent; depuis les élections .
+2;1_G_;Head;C';est;lui;que;les comportements ;du politicien;déçoivent; depuis les élections .
+2;2_;Head;C';est;eux;que;les comportements;du politicien;déçoivent; depuis les élections .
+2;1_G_;Head;C';est;elle;que;les candidatures;du politicien;déçoivent; depuis les élections .
+2;2_;Head;C';est;elles;que;les candidatures;du politicien;déçoivent; depuis les élections .
+2;0_;Head;C';est;elle;que;les comportements ;du politicien;déçoivent; depuis les élections .
+2;1_N_;Head;C';est;elles;que;les comportements;du politicien;déçoivent; depuis les élections .
+2;2_;Embedd;C';est;lui;que;la candidature;du politicien;déçoit; depuis les élections .
+2;1_G_;Embedd;C';est;eaux;que;la candidature;du politicien;déçoit; depuis les élections .
+2;1_N_;Embedd;C';est;lui;que;la candidature;de la politicienne;déçoit; depuis les élections .
+2;0_;Embedd;C';est;eaux;que;la candidature;de la politicienne;déçoit; depuis les élections .
+2;1_N_;Embedd;C';est;elle;que;la candidature;du politicien;déçoit; depuis les élections .
+2;0_;Embedd;C';est;elles;que;la candidature;du politicien;déçoit; depuis les élections .
+2;2_;Embedd;C';est;elle;que;la candidature;de la politicienne;déçoit; depuis les élections .
+2;1_G_;Embedd;C';est;elles;que;la candidature;de la politicienne;déçoit; depuis les élections .
+2;1_G_;Embedd;C';est;lui;que;la candidature;des politiciens;déçoit; depuis les élections .
+2;2_;Embedd;C';est;eaux;que;la candidature;des politiciens;déçoit; depuis les élections .
+2;0_;Embedd;C';est;lui;que;la candidature;des politiciennes;déçoit; depuis les élections .
+2;1_N_;Embedd;C';est;eaux;que;la candidature;des politiciennes;déçoit; depuis les élections .
+2;0_;Embedd;C';est;elle;que;la candidature;des politiciens;déçoit; depuis les élections .
+2;1_N_;Embedd;C';est;elles;que;la candidature;des politiciens;déçoit; depuis les élections .
+2;1_G_;Embedd;C';est;elle;que;la candidature;des politiciennes;déçoit; depuis les élections .
+2;2_;Embedd;C';est;elles;que;la candidature;des politiciennes;déçoit; depuis les élections .
+3;1_N_;Head;C';est;lui;que;la tortue;du gardien;reconnais;dans la cour .
+3;0_;Head;C';est;eux;que;la tortue;du gardien;reconnais;dans la cour .
+3;2_;Head;C';est;lui;que;le chien;du gardien;reconnais;dans la cour .
+3;1_G_;Head;C';est;eux;que;le chien;du gardien;reconnais;dans la cour .
+3;2_;Head;C';est;elle;que;la tortue;du gardien;reconnais;dans la cour .
+3;1_G_;Head;C';est;elles;que;la tortue;du gardien;reconnais;dans la cour .
+3;1_N_;Head;C';est;elle;que;le chien;du gardien;reconnais;dans la cour .
+3;0_;Head;C';est;elles;que;le chien;du gardien;reconnais;dans la cour .
+3;0_;Head;C';est;lui;que;les tortues;du gardien;reconnaissent;dans la cour .
+3;1_N_;Head;C';est;eux;que;les tortues;du gardien;reconnaissent;dans la cour .
+3;1_G_;Head;C';est;lui;que;les chiens;du gardien;reconnaissent;dans la cour .
+3;2_;Head;C';est;eux;que;les chiens;du gardien;reconnaissent;dans la cour .
+3;1_G_;Head;C';est;elle;que;les tortues;du gardien;reconnaissent;dans la cour .
+3;2_;Head;C';est;elles;que;les tortues;du gardien;reconnaissent;dans la cour .
+3;0_;Head;C';est;elle;que;les chiens;du gardien;reconnaissent;dans la cour .
+3;1_N_;Head;C';est;elles;que;les chiens;du gardien;reconnaissent;dans la cour .
+3;2_;Embedd;C';est;lui;que;le chien;du gardien;reconnais;dans la cour .
+3;1_G_;Embedd;C';est;eaux;que;le chien;du gardien;reconnais;dans la cour .
+3;1_N_;Embedd;C';est;lui;que;le chien;de la gardienne;reconnais;dans la cour .
+3;0_;Embedd;C';est;eaux;que;le chien;de la gardienne;reconnais;dans la cour .
+3;1_N_;Embedd;C';est;elle;que;le chien;du gardien;reconnais;dans la cour .
+3;0_;Embedd;C';est;elles;que;le chien;du gardien;reconnais;dans la cour .
+3;2_;Embedd;C';est;elle;que;le chien;de la gardienne;reconnais;dans la cour .
+3;1_G_;Embedd;C';est;elles;que;le chien;de la gardienne;reconnais;dans la cour .
+3;1_G_;Embedd;C';est;lui;que;le chien;des gardiens;reconnais;dans la cour .
+3;2_;Embedd;C';est;eaux;que;le chien;des gardiens;reconnais;dans la cour .
+3;0_;Embedd;C';est;lui;que;le chien;des gardiennes;reconnais;dans la cour .
+3;1_N_;Embedd;C';est;eaux;que;le chien;des gardiennes;reconnais;dans la cour .
+3;0_;Embedd;C';est;elle;que;le chien;des gardiens;reconnais;dans la cour .
+3;1_N_;Embedd;C';est;elles;que;le chien;des gardiens;reconnais;dans la cour .
+3;1_G_;Embedd;C';est;elle;que;le chien;des gardiennes;reconnais;dans la cour .
+3;2_;Embedd;C';est;elles;que;le chien;des gardiennes;reconnais;dans la cour .
+4;1_N_;Head;C';est;lui;que;la clinique;de l'éducateur;héberge;depuis quelques années .
+4;0_;Head;C';est;eux;que;la clinique;de l'éducateur;héberge;depuis quelques années .
+4;2_;Head;C';est;lui;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;1_G_;Head;C';est;eux;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;2_;Head;C';est;elle;que;la clinique;de l'éducateur;héberge;depuis quelques années .
+4;1_G_;Head;C';est;elles;que;la clinique;de l'éducateur;héberge;depuis quelques années .
+4;1_N_;Head;C';est;elle;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;0_;Head;C';est;elles;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;0_;Head;C';est;lui;que;les cliniques;de l'éducateur;hébergent;depuis quelques années .
+4;1_N_;Head;C';est;eux;que;les cliniques;de l'éducateur;hébergent;depuis quelques années .
+4;1_G_;Head;C';est;lui;que;les instituts;de l'éducateur;hébergent;depuis quelques années .
+4;2_;Head;C';est;eux;que;les instituts;de l'éducateur;hébergent;depuis quelques années .
+4;1_G_;Head;C';est;elle;que;les cliniques;de l'éducateur;hébergent;depuis quelques années .
+4;2_;Head;C';est;elles;que;les cliniques;de l'éducateur;hébergent;depuis quelques années .
+4;0_;Head;C';est;elle;que;les instituts;de l'éducateur;hébergent;depuis quelques années .
+4;1_N_;Head;C';est;elles;que;les instituts;de l'éducateur;hébergent;depuis quelques années .
+4;2_;Embedd;C';est;lui;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;1_G_;Embedd;C';est;eaux;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;1_N_;Embedd;C';est;lui;que;l'institut;de l'éducatrice;héberge;depuis quelques années .
+4;0_;Embedd;C';est;eaux;que;l'institut;de l'éducatrice;héberge;depuis quelques années .
+4;1_N_;Embedd;C';est;elle;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;0_;Embedd;C';est;elles;que;l'institut;de l'éducateur;héberge;depuis quelques années .
+4;2_;Embedd;C';est;elle;que;l'institut;de l'éducatrice;héberge;depuis quelques années .
+4;1_G_;Embedd;C';est;elles;que;l'institut;de l'éducatrice;héberge;depuis quelques années .
+4;1_G_;Embedd;C';est;lui;que;l'institut;des éducateurs;héberge;depuis quelques années .
+4;2_;Embedd;C';est;eaux;que;l'institut;des éducateurs;héberge;depuis quelques années .
+4;0_;Embedd;C';est;lui;que;l'institut;des éducatrices;héberge;depuis quelques années .
+4;1_N_;Embedd;C';est;eaux;que;l'institut;des éducatrices;héberge;depuis quelques années .
+4;0_;Embedd;C';est;elle;que;l'institut;des éducateurs;héberge;depuis quelques années .
+4;1_N_;Embedd;C';est;elles;que;l'institut;des éducateurs;héberge;depuis quelques années .
+4;1_G_;Embedd;C';est;elle;que;l'institut;des éducatrices;héberge;depuis quelques années .
+4;2_;Embedd;C';est;elles;que;l'institut;des éducatrices;héberge;depuis quelques années .
+5;1_N_;Head;C';est;lui;que;la voiture;du juré;attend;après l'audition
+5;0_;Head;C';est;eux;que;la voiture;du juré;attend;après l'audition
+5;2_;Head;C';est;lui;que;le taxi;du juré;attend;après l'audition
+5;1_G_;Head;C';est;eux;que;le taxi;du juré;attend;après l'audition
+5;2_;Head;C';est;elle;que;la voiture;du juré;attend;après l'audition
+5;1_G_;Head;C';est;elles;que;la voiture;du juré;attend;après l'audition
+5;1_N_;Head;C';est;elle;que;le taxi;du juré;attend;après l'audition
+5;0_;Head;C';est;elles;que;le taxi;du juré;attend;après l'audition
+5;0_;Head;C';est;lui;que;les voitures;du juré;attendent;après l'audition
+5;1_N_;Head;C';est;eux;que;les voitures;du juré;attendent;après l'audition
+5;1_G_;Head;C';est;lui;que;les taxis;du juré;attendent;après l'audition
+5;2_;Head;C';est;eux;que;les taxi;du juré;attendent;après l'audition
+5;1_G_;Head;C';est;elle;que;les voitures;du juré;attendent;après l'audition
+5;2_;Head;C';est;elles;que;les voitures;du juré;attendent;après l'audition
+5;0_;Head;C';est;elle;que;les taxis;du juré;attendent;après l'audition
+5;1_N_;Head;C';est;elles;que;les taxi;du juré;attendent;après l'audition
+5;2_;Embedd;C';est;lui;que;le taxi;du juré;attend;après l'audition
+5;1_G_;Embedd;C';est;eaux;que;le taxi;du juré;attend;après l'audition
+5;1_N_;Embedd;C';est;lui;que;le taxi;de la jurée;attend;après l'audition
+5;0_;Embedd;C';est;eaux;que;le taxi;de la jurée;attend;après l'audition
+5;1_N_;Embedd;C';est;elle;que;le taxi;du juré;attend;après l'audition
+5;0_;Embedd;C';est;elles;que;le taxi;du juré;attend;après l'audition
+5;2_;Embedd;C';est;elle;que;le taxi;de la jurée;attend;après l'audition
+5;1_G_;Embedd;C';est;elles;que;le taxi;de la jurée;attend;après l'audition
+5;1_G_;Embedd;C';est;lui;que;le taxi;des jurés;attend;après l'audition
+5;2_;Embedd;C';est;eaux;que;le taxi;des jurés;attend;après l'audition
+5;0_;Embedd;C';est;lui;que;le taxi;des jurées;attend;après l'audition
+5;1_N_;Embedd;C';est;eaux;que;le taxi;des jurées;attend;après l'audition
+5;0_;Embedd;C';est;elle;que;le taxi;des jurés;attend;après l'audition
+5;1_N_;Embedd;C';est;elles;que;le taxi;des jurés;attend;après l'audition
+5;1_G_;Embedd;C';est;elle;que;le taxi;des jurées;attend;après l'audition
+5;2_;Embedd;C';est;elles;que;le taxi;des jurées;attend;après l'audition
+6;1_N_;Head;C';est;lui;que;la phrase;du prêtre;bénit;après chaque messe .
+6;0_;Head;C';est;eux;que;la phrase;du prêtre;bénit;après chaque messe .
+6;2_;Head;C';est;lui;que;le mot;du prêtre;bénit;après chaque messe .
+6;1_G_;Head;C';est;eux;que;le mot;du prêtre;bénit;après chaque messe .
+6;2_;Head;C';est;elle;que;la phrase;du prêtre;bénit;après chaque messe .
+6;1_G_;Head;C';est;elles;que;la phrase;du prêtre;bénit;après chaque messe .
+6;1_N_;Head;C';est;elle;que;le mot;du prêtre;bénit;après chaque messe .
+6;0_;Head;C';est;elles;que;le mot;du prêtre;bénit;après chaque messe .
+6;0_;Head;C';est;lui;que;les phrases;du prêtre;bénissent;après chaque messe .
+6;1_N_;Head;C';est;eux;que;les phrases;du prêtre;bénissent;après chaque messe .
+6;1_G_;Head;C';est;lui;que;les mots;du prêtre;bénissent;après chaque messe .
+6;2_;Head;C';est;eux;que;les mots;du prêtre;bénissent;après chaque messe .
+6;1_G_;Head;C';est;elle;que;les phrases;du prêtre;bénissent;après chaque messe .
+6;2_;Head;C';est;elles;que;les phrases;du prêtre;bénissent;après chaque messe .
+6;0_;Head;C';est;elle;que;les mots;du prêtre;bénissent;après chaque messe .
+6;1_N_;Head;C';est;elles;que;les mots;du prêtre;bénissent;après chaque messe .
+6;2_;Embedd;C';est;lui;que;le mot;du prêtre;bénit;après chaque messe .
+6;1_G_;Embedd;C';est;eaux;que;le mot;du prêtre;bénit;après chaque messe .
+6;1_N_;Embedd;C';est;lui;que;le mot;de la religieuse;bénit;après chaque messe .
+6;0_;Embedd;C';est;eaux;que;le mot;de la religieuse;bénit;après chaque messe .
+6;1_N_;Embedd;C';est;elle;que;le mot;du prêtre;bénit;après chaque messe .
+6;0_;Embedd;C';est;elles;que;le mot;du prêtre;bénit;après chaque messe .
+6;2_;Embedd;C';est;elle;que;le mot;de la religieuse;bénit;après chaque messe .
+6;1_G_;Embedd;C';est;elles;que;le mot;de la religieuse;bénit;après chaque messe .
+6;1_G_;Embedd;C';est;lui;que;le mot;des prêtres;bénit;après chaque messe .
+6;2_;Embedd;C';est;eaux;que;le mot;des prêtres;bénit;après chaque messe .
+6;0_;Embedd;C';est;lui;que;le mot;des religieuses;bénit;après chaque messe .
+6;1_N_;Embedd;C';est;eaux;que;le mot;des religieuses;bénit;après chaque messe .
+6;0_;Embedd;C';est;elle;que;le mot;des prêtres;bénit;après chaque messe .
+6;1_N_;Embedd;C';est;elles;que;le mot;des prêtres;bénit;après chaque messe .
+6;1_G_;Embedd;C';est;elle;que;le mot;des religieuses;bénit;après chaque messe .
+6;2_;Embedd;C';est;elles;que;le mot;des religieuses;bénit;après chaque messe .
+7;1_N_;Head;C';est;lui;que;la magie;du sorcier;inquiète; pour Halloween .
+7;0_;Head;C';est;eux;que;la magie;du sorcier;inquiète; pour Halloween .
+7;2_;Head;C';est;lui;que;le chapeau;du sorcier;inquiète; pour Halloween .
+7;1_G_;Head;C';est;eux;que;le chapeau;du sorcier;inquiète; pour Halloween .
+7;2_;Head;C';est;elle;que;la magie;du sorcier;inquiète; pour Halloween .
+7;1_G_;Head;C';est;elles;que;la magie;du sorcier;inquiète; pour Halloween .
+7;1_N_;Head;C';est;elle;que;le chapeau;du sorcier;inquiète; pour Halloween .
+7;0_;Head;C';est;elles;que;le chapeau;du sorcier;inquiète; pour Halloween .
+7;0_;Head;C';est;lui;que;les magies;du sorcier;inquiètent; pour Halloween .
+7;1_N_;Head;C';est;eux;que;les magies;du sorcier;inquiètent; pour Halloween .
+7;1_G_;Head;C';est;lui;que;les chapeaux;du sorcier;inquiètent; pour Halloween .
+7;2_;Head;C';est;eux;que;les chapeaux;du sorcier;inquiètent; pour Halloween .
+7;1_G_;Head;C';est;elle;que;les magies;du sorcier;inquiètent; pour Halloween .
+7;2_;Head;C';est;elles;que;les magies;du sorcier;inquiètent; pour Halloween .
+7;0_;Head;C';est;elle;que;les chapeaux;du sorcier;inquiètent; pour Halloween .
+7;1_N_;Head;C';est;elles;que;les chapeaux;du sorcier;inquiètent; pour Halloween .
+7;2_;Embedd;C';est;lui;que;la magie;du sorcier;inquiète; pour Halloween .
+7;1_G_;Embedd;C';est;eaux;que;la magie;du sorcier;inquiète; pour Halloween .
+7;1_N_;Embedd;C';est;lui;que;la magie;de la sorcière;inquiète; pour Halloween .
+7;0_;Embedd;C';est;eaux;que;la magie;de la sorcière;inquiète; pour Halloween .
+7;1_N_;Embedd;C';est;elle;que;la magie;du sorcier;inquiète; pour Halloween .
+7;0_;Embedd;C';est;elles;que;la magie;du sorcier;inquiète; pour Halloween .
+7;2_;Embedd;C';est;elle;que;la magie;de la sorcière;inquiète; pour Halloween .
+7;1_G_;Embedd;C';est;elles;que;la magie;de la sorcière;inquiète; pour Halloween .
+7;1_G_;Embedd;C';est;lui;que;la magie;des sorciers;inquiète; pour Halloween .
+7;2_;Embedd;C';est;eaux;que;la magie;des sorciers;inquiète; pour Halloween .
+7;0_;Embedd;C';est;lui;que;la magie;des sorcières;inquiète; pour Halloween .
+7;1_N_;Embedd;C';est;eaux;que;la magie;des sorcières;inquiète; pour Halloween .
+7;0_;Embedd;C';est;elle;que;la magie;des sorciers;inquiète; pour Halloween .
+7;1_N_;Embedd;C';est;elles;que;la magie;des sorciers;inquiète; pour Halloween .
+7;1_G_;Embedd;C';est;elle;que;la magie;des sorcières;inquiète; pour Halloween .
+7;2_;Embedd;C';est;elles;que;la magie;des sorcières;inquiète; pour Halloween .
+8;1_N_;Head;C';est;lui;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;0_;Head;C';est;eux;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;2_;Head;C';est;lui;que;le fils;du spectateur;applaudit; à chaque représentation .
+8;1_G_;Head;C';est;eux;que;le fils;du spectateur;applaudit; à chaque représentation .
+8;2_;Head;C';est;elle;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;1_G_;Head;C';est;elles;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;1_N_;Head;C';est;elle;que;le fils;du spectateur;applaudit; à chaque représentation .
+8;0_;Head;C';est;elles;que;le fils;du spectateur;applaudit; à chaque représentation .
+8;0_;Head;C';est;lui;que;les filles;du spectateur;applaudissent; à chaque représentation .
+8;1_N_;Head;C';est;eux;que;les filles;du spectateur;applaudissent; à chaque représentation .
+8;1_G_;Head;C';est;lui;que;les fils;du spectateur;applaudissent; à chaque représentation .
+8;2_;Head;C';est;eux;que;les fils;du spectateur;applaudissent; à chaque représentation .
+8;1_G_;Head;C';est;elle;que;les filles;du spectateur;applaudissent; à chaque représentation .
+8;2_;Head;C';est;elles;que;les filles;du spectateur;applaudissent; à chaque représentation .
+8;0_;Head;C';est;elle;que;les fils;du spectateur;applaudissent; à chaque représentation .
+8;1_N_;Head;C';est;elles;que;les fils;du spectateur;applaudissent; à chaque représentation .
+8;2_;Embedd;C';est;lui;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;1_G_;Embedd;C';est;eaux;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;1_N_;Embedd;C';est;lui;que;la fille;de la spectatrice;applaudit; à chaque représentation .
+8;0_;Embedd;C';est;eaux;que;la fille;de la spectatrice;applaudit; à chaque représentation .
+8;1_N_;Embedd;C';est;elle;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;0_;Embedd;C';est;elles;que;la fille;du spectateur;applaudit; à chaque représentation .
+8;2_;Embedd;C';est;elle;que;la fille;de la spectatrice;applaudit; à chaque représentation .
+8;1_G_;Embedd;C';est;elles;que;la fille;de la spectatrice;applaudit; à chaque représentation .
+8;1_G_;Embedd;C';est;lui;que;la fille;des spectateurs;applaudit; à chaque représentation .
+8;2_;Embedd;C';est;eaux;que;la fille;des spectateurs;applaudit; à chaque représentation .
+8;0_;Embedd;C';est;lui;que;la fille;des spectatrices;applaudit; à chaque représentation .
+8;1_N_;Embedd;C';est;eaux;que;la fille;des spectatrices;applaudit; à chaque représentation .
+8;0_;Embedd;C';est;elle;que;la fille;des spectateurs;applaudit; à chaque représentation .
+8;1_N_;Embedd;C';est;elles;que;la fille;des spectateurs;applaudit; à chaque représentation .
+8;1_G_;Embedd;C';est;elle;que;la fille;des spectatrices;applaudit; à chaque représentation .
+8;2_;Embedd;C';est;elles;que;la fille;des spectatrices;applaudit; à chaque représentation .
